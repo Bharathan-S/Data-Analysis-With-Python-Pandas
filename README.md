@@ -2,7 +2,7 @@
 
 This Case Study is performed on Udemy Courses dataset from Kaggle.
 
-Analysis done using **Python - Pandas** and visualzation is done using **seaborn**.
+Analysis done using **Python - Pandas** and visualization is done using **seaborn**.
 
 The dataset consists of 12 columns and the business requirements are considered as below:
 1. Display Top 10 Rows of The Dataset
